@@ -1,0 +1,7 @@
+#/content/ is the root for colab, change if runnign locally
+
+train: /content/data/images/train
+val: /content/data/images/valid
+
+nc: 1
+names: ['tree']
